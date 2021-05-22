@@ -1,4 +1,4 @@
-# Hi, I'm Leon 🌿
+# Hello there! I'm Leon 🌿
 
 Brazilian, from Rio de Janeiro, living in Curitiba.
 
