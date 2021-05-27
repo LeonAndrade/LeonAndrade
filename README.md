@@ -2,10 +2,10 @@
 
 Brazilian, from Rio de Janeiro, living in Curitiba.
 
-Fascinated about the power of computation in our lives.
+Intrigued about entropy, information and complexity.
 
-Curious about entropy, information and evolution.
+Fascinated about the role of computation in our lives.
+
+Working as Data Analyst, learning more about Data Engineering, CloudOps and Blockchain.
 
 I believe that computational thinking and data literacy are fundamental to understand the world we are building.
-
-Working as Data Analyst, learning more about Data Engineering and CloudOps.
