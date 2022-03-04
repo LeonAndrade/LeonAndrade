@@ -1,1 +1,3 @@
-Nea Onnim
+🌿 Creative thinker. 
+🪶 Problem Solver. 
+🏹 Obsessive learner.
